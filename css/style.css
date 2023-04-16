@@ -56,7 +56,7 @@ h1,h2 {
 #hero-image {
     height: 100%;
     width: 600px;
-    url ('../images/hero-image.webp') no-repeat center center;
+    background: url ('/workspace/love-running/assets/images') no-repeat center center;
 }
 .active {
     border-bottom: 1px solid #3a3a3a;
