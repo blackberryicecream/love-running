@@ -50,14 +50,16 @@ h1,h2 {
 #menu a:hover {
     border-bottom: 1px solid #3a3a3a;
 }
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
 
 /* hero image*/
 
 #hero-image {
-    height: 100%;
-    width: 600px;
-    background: url ('/workspace/love-running/assets/images') no-repeat center center;
-}
-.active {
-    border-bottom: 1px solid #3a3a3a;
-}
+        height: 100%;
+        width: 600px;
+        background: url ('images/hero-image.webp') no-repeat center center;
+    }
+
+
